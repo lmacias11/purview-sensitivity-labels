@@ -25,6 +25,7 @@ Phase 1 scope: design and deploy a sensitivity label framework that addresses al
 ## Label Hierarchy
 [write out of full label list in the Purview portal]
 See /screenshots folder
+
 ## Key Configurations
 - X sensitivity labels across Y levels
 - Auto-labeling configured for PHI data types
@@ -35,7 +36,7 @@ See /screenshots folder
 [Section 3.2]
 
 ## Compliance Framework
-HIPAA, PHI DSS, HITRUST CSF r2, ISO 27001
+HIPAA, PHI DSS, HITRUST CSF r2, ISO 27001, NIST CSF
 
 ## Environment
 Microsoft 365 E5 Developer Tenant
